@@ -1,2 +1,2 @@
 # Mizuxe-Bootstrap
-Boostrap 5.0 utilizing SASS 
+Boostrap 5.0 mit SASS 
