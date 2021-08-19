@@ -1,2 +1,2 @@
-# Mizuxe-Bootstrap
-Boostrap 5.0 mit SASS 
+# LandingPage_Product_BOOTSTRAP
+Product-selling Landing Page made with Boostrap & SASS  
